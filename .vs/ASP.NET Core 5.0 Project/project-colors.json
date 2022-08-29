@@ -5,7 +5,27 @@
       "ProjectGuid": "f81971e2-f462-4706-b2ac-e345efd3e541",
       "DisplayName": "ASP.NET Core 5.0 Project",
       "ColorIndex": 0
+    },
+    "fb90304a-1ecc-4124-ac15-34a273796c80": {
+      "ProjectGuid": "fb90304a-1ecc-4124-ac15-34a273796c80",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 1
+    },
+    "6b0f422f-5da2-4f2d-9047-39639bf0f974": {
+      "ProjectGuid": "6b0f422f-5da2-4f2d-9047-39639bf0f974",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "9b95af17-5c37-4cfe-a4b9-63c92828f95f": {
+      "ProjectGuid": "9b95af17-5c37-4cfe-a4b9-63c92828f95f",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 3
+    },
+    "4ed98ec3-0bd2-4ad3-8c30-9303c0797b1b": {
+      "ProjectGuid": "4ed98ec3-0bd2-4ad3-8c30-9303c0797b1b",
+      "DisplayName": "CoreLayer",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }
