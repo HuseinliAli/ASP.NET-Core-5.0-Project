@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f81971e2-f462-4706-b2ac-e345efd3e541": {
+      "ProjectGuid": "f81971e2-f462-4706-b2ac-e345efd3e541",
+      "DisplayName": "ASP.NET Core 5.0 Project",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
