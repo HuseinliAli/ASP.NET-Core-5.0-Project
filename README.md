@@ -14,6 +14,6 @@
 ## Day: 2
 <br />
         1. **Add** references to BusinessLayer(DataAccessLayer, EntityLayer), DataAccessLayer(EntityLayer) <br />
-        2. **Add** releation to Blog Entity(Category, Comment), Comment Entity(Blog) 
-        3. **Create** migration target project DataAccsessLayer add-migration mig_name update-database
+        2. **Add** releation to Blog Entity(Category, Comment), Comment Entity(Blog) <br />
+        3. **Create** migration target project DataAccsessLayer add-migration mig_name update-database <br />
         
