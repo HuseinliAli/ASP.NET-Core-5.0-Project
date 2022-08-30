@@ -16,4 +16,5 @@
         1. **Add** references to BusinessLayer(DataAccessLayer, EntityLayer), DataAccessLayer(EntityLayer) <br />
         2. **Add** releation to Blog Entity(Category, Comment), Comment Entity(Blog) <br />
         3. **Create** migration target project DataAccsessLayer add-migration mig_name update-database <br />
+        4. **Install** Four Entity Packages (EF CORE, EF CORE.DESIGN, EF CORE.SQLSERVER, EF CORE.TOOLS) in **ASP.NET Core 5.0 Project** <br/>
         
