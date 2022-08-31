@@ -150,3 +150,4 @@ C:\Users\Ali\Desktop\ASP.NET Core 5.0 Project\ASP.NET Core 5.0 Project\bin\Debug
 C:\Users\Ali\Desktop\ASP.NET Core 5.0 Project\ASP.NET Core 5.0 Project\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\Ali\Desktop\ASP.NET Core 5.0 Project\ASP.NET Core 5.0 Project\bin\Debug\net5.0\EntityLayer.pdb
 C:\Users\Ali\Desktop\ASP.NET Core 5.0 Project\ASP.NET Core 5.0 Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ali\Desktop\ASP.NET Core 5.0 Project\ASP.NET Core 5.0 Project\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
